@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Cabin", sans-serif;
+    color: var(--negroL);
+}
+
+/*dos puntos seudo clase*/
+:root{
+     --main-bg-color:#37373c;
+
+}
+.navbar{
+    background: var(--main-bg-color);
+    
+}
+.navbar-brand img{
+    height: 2.5rem;
+    
+}
+
+.navbar-nav{
+    margin-right: 150px;
+}
+img{
+    width: 10px;
+   
+   
+}
