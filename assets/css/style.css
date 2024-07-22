@@ -2,12 +2,17 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: "Cabin", sans-serif;
-    color: var(--negroL);
+    color: fff;
 }
+/*html{
+    scroll-behavior: smooth;
+    scroll-padding: 90px;
+
+}*/
 
 /*dos puntos seudo clase*/
 :root{
-     --main-bg-color:#37373c;
+     --main-bg-color:#040404;
 
 }
 .navbar{
@@ -22,8 +27,25 @@ body{
 .navbar-nav{
     margin-right: 150px;
 }
-img{
-    width: 10px;
-   
-   
+nav img {
+    width: 30px;
+    margin-right: 5px;
 }
+.parrafo1{
+    background-color: #2e99bc;
+}
+.fa-brands {
+    color: aliceblue;
+}
+footer {
+    background-color: #2e99bc;
+    color: #ffffff;
+    padding: 30px;
+    
+    
+    
+}
+
+
+
+
