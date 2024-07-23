@@ -12,7 +12,7 @@ html{
 
 }
 
-/*dos puntos seudo clase*/
+
 :root{
      --main-bg-color:#040404;
 
@@ -38,14 +38,23 @@ nav img {
 }
 .parrafo_quienes{
     background-color: #2e99bc;
+    padding: 10px;
 }
-.fa-brands {
-    color: aliceblue;
-}
+
 footer {
     background-color: #2e99bc;
     color: #ffffff;
     padding: 30px;
      
 }
+i{
+    color: #ffffff;
 
+}
+
+a{
+    font-family: Edu AU VIC WA NT, cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
