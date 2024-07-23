@@ -3,12 +3,14 @@ body{
     padding: 0px;
     font-family: "Cabin", sans-serif;
     color: fff;
+    padding-top: 5px;
+    
 }
-/*html{
+html{
     scroll-behavior: smooth;
-    scroll-padding: 90px;
+    scroll-padding: 70px;
 
-}*/
+}
 
 /*dos puntos seudo clase*/
 :root{
@@ -16,7 +18,9 @@ body{
 
 }
 .navbar{
-    background: var(--main-bg-color);
+    
+    
+    background-color: rgb(255, 255, 255, 0.9) !important;
     
 }
 .navbar-brand img{
@@ -26,12 +30,13 @@ body{
 
 .navbar-nav{
     margin-right: 150px;
+    
 }
 nav img {
     width: 30px;
     margin-right: 5px;
 }
-.parrafo1{
+.parrafo_quienes{
     background-color: #2e99bc;
 }
 .fa-brands {
@@ -41,11 +46,6 @@ footer {
     background-color: #2e99bc;
     color: #ffffff;
     padding: 30px;
-    
-    
-    
+     
 }
-
-
-
 
