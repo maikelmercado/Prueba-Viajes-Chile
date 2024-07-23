@@ -12,7 +12,7 @@ html{
 
 }
 
-/*dos puntos seudo clase*/
+
 :root{
      --main-bg-color:#040404;
 
@@ -38,6 +38,7 @@ nav img {
 }
 .parrafo_quienes{
     background-color: #2e99bc;
+    padding: 10px;
 }
 
 footer {
@@ -50,3 +51,4 @@ i{
     color: #ffffff;
 
 }
+
