@@ -39,13 +39,14 @@ nav img {
 .parrafo_quienes{
     background-color: #2e99bc;
 }
-.fa-brands {
-    color: aliceblue;
-}
+
 footer {
     background-color: #2e99bc;
     color: #ffffff;
     padding: 30px;
      
 }
+i{
+    color: #ffffff;
 
+}
